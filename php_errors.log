@@ -1,0 +1,241 @@
+[02-Feb-2018 18:40:06 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/accounts/login.php on line 72
+[02-Feb-2018 18:40:06 UTC] PHP Stack trace:
+[02-Feb-2018 18:40:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/accounts/login.php:0
+[02-Feb-2018 18:40:06 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/accounts/login.php:72
+[02-Feb-2018 18:40:06 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/accounts/login.php on line 72
+[02-Feb-2018 18:40:06 UTC] PHP Stack trace:
+[02-Feb-2018 18:40:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/accounts/login.php:0
+[02-Feb-2018 18:40:06 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/accounts/login.php:72
+[02-Feb-2018 18:40:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/accounts/login.php on line 73
+[02-Feb-2018 18:40:06 UTC] PHP Stack trace:
+[02-Feb-2018 18:40:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/accounts/login.php:0
+[02-Feb-2018 18:40:06 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/accounts/login.php:73
+[02-Feb-2018 18:40:06 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/accounts/login.php on line 74
+[02-Feb-2018 18:40:06 UTC] PHP Stack trace:
+[02-Feb-2018 18:40:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/accounts/login.php:0
+[02-Feb-2018 18:40:06 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/accounts/login.php:74
+[02-Feb-2018 18:41:16 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/accounts/login.php on line 72
+[02-Feb-2018 18:41:16 UTC] PHP Stack trace:
+[02-Feb-2018 18:41:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/accounts/login.php:0
+[02-Feb-2018 18:41:16 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/accounts/login.php:72
+[02-Feb-2018 18:41:16 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/accounts/login.php on line 72
+[02-Feb-2018 18:41:16 UTC] PHP Stack trace:
+[02-Feb-2018 18:41:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/accounts/login.php:0
+[02-Feb-2018 18:41:16 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/accounts/login.php:72
+[02-Feb-2018 18:41:16 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/accounts/login.php on line 73
+[02-Feb-2018 18:41:16 UTC] PHP Stack trace:
+[02-Feb-2018 18:41:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/accounts/login.php:0
+[02-Feb-2018 18:41:16 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/accounts/login.php:73
+[02-Feb-2018 18:41:16 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/accounts/login.php on line 74
+[02-Feb-2018 18:41:16 UTC] PHP Stack trace:
+[02-Feb-2018 18:41:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/accounts/login.php:0
+[02-Feb-2018 18:41:16 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/accounts/login.php:74
+[06-Feb-2018 12:05:58 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/accounts/login.php on line 43
+[06-Feb-2018 17:52:32 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/accounts/login.php on line 38
+[07-Feb-2018 18:01:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/inc/index.php on line 5
+[07-Feb-2018 18:01:18 UTC] PHP Stack trace:
+[07-Feb-2018 18:01:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/inc/index.php:0
+[07-Feb-2018 18:01:18 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/inc/index.php:5
+[07-Feb-2018 18:01:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/inc/index.php on line 6
+[07-Feb-2018 18:01:18 UTC] PHP Stack trace:
+[07-Feb-2018 18:01:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/inc/index.php:0
+[07-Feb-2018 18:01:18 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/inc/index.php:6
+[07-Feb-2018 18:02:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/inc/index.php on line 5
+[07-Feb-2018 18:02:54 UTC] PHP Stack trace:
+[07-Feb-2018 18:02:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/inc/index.php:0
+[07-Feb-2018 18:02:54 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/inc/index.php:5
+[07-Feb-2018 18:02:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/inc/index.php on line 6
+[07-Feb-2018 18:02:54 UTC] PHP Stack trace:
+[07-Feb-2018 18:02:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/inc/index.php:0
+[07-Feb-2018 18:02:54 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/inc/index.php:6
+[07-Feb-2018 19:09:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/inc/index.php on line 5
+[07-Feb-2018 19:09:26 UTC] PHP Stack trace:
+[07-Feb-2018 19:09:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/inc/index.php:0
+[07-Feb-2018 19:09:26 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/inc/index.php:5
+[07-Feb-2018 19:09:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/inc/index.php on line 6
+[07-Feb-2018 19:09:26 UTC] PHP Stack trace:
+[07-Feb-2018 19:09:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/inc/index.php:0
+[07-Feb-2018 19:09:26 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/inc/index.php:6
+[16-Feb-2018 16:01:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/inc/index.php on line 5
+[16-Feb-2018 16:01:58 UTC] PHP Stack trace:
+[16-Feb-2018 16:01:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/inc/index.php:0
+[16-Feb-2018 16:01:58 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/inc/index.php:5
+[16-Feb-2018 16:01:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/inc/index.php on line 6
+[16-Feb-2018 16:01:58 UTC] PHP Stack trace:
+[16-Feb-2018 16:01:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/inc/index.php:0
+[16-Feb-2018 16:01:58 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/inc/index.php:6
+[19-Feb-2018 13:23:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/inc/db.php on line 17
+[19-Feb-2018 13:23:29 UTC] PHP Stack trace:
+[19-Feb-2018 13:23:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/accounts/signup.php:0
+[19-Feb-2018 13:23:29 UTC] PHP   2. include() /home/ubuntu/workspace/accounts/signup.php:2
+[19-Feb-2018 13:23:29 UTC] PHP   3. mysqli_connect() /home/ubuntu/workspace/inc/db.php:17
+[19-Feb-2018 13:23:29 UTC] PHP Fatal error:  Call to a member function set_charset() on a non-object in /home/ubuntu/workspace/inc/db.php on line 18
+[19-Feb-2018 13:23:29 UTC] PHP Stack trace:
+[19-Feb-2018 13:23:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/accounts/signup.php:0
+[19-Feb-2018 13:23:29 UTC] PHP   2. include() /home/ubuntu/workspace/accounts/signup.php:2
+[19-Feb-2018 15:09:46 UTC] PHP Warning:  include(init.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/inc/signup.php on line 4
+[19-Feb-2018 15:09:46 UTC] PHP Stack trace:
+[19-Feb-2018 15:09:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/inc/signup.php:0
+[19-Feb-2018 15:09:46 UTC] PHP Warning:  include(): Failed opening 'init.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/inc/signup.php on line 4
+[19-Feb-2018 15:09:46 UTC] PHP Stack trace:
+[19-Feb-2018 15:09:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/inc/signup.php:0
+[19-Feb-2018 15:09:46 UTC] PHP Warning:  include(inc/htmlstart.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/inc/signup.php on line 5
+[19-Feb-2018 15:09:46 UTC] PHP Stack trace:
+[19-Feb-2018 15:09:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/inc/signup.php:0
+[19-Feb-2018 15:09:46 UTC] PHP Warning:  include(): Failed opening 'inc/htmlstart.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/inc/signup.php on line 5
+[19-Feb-2018 15:09:46 UTC] PHP Stack trace:
+[19-Feb-2018 15:09:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/inc/signup.php:0
+[19-Feb-2018 15:09:46 UTC] PHP Warning:  include(inc/navbar.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/inc/signup.php on line 6
+[19-Feb-2018 15:09:46 UTC] PHP Stack trace:
+[19-Feb-2018 15:09:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/inc/signup.php:0
+[19-Feb-2018 15:09:46 UTC] PHP Warning:  include(): Failed opening 'inc/navbar.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/inc/signup.php on line 6
+[19-Feb-2018 15:09:46 UTC] PHP Stack trace:
+[19-Feb-2018 15:09:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/inc/signup.php:0
+[19-Feb-2018 15:09:46 UTC] PHP Warning:  include(inc/htmlend.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/inc/signup.php on line 123
+[19-Feb-2018 15:09:46 UTC] PHP Stack trace:
+[19-Feb-2018 15:09:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/inc/signup.php:0
+[19-Feb-2018 15:09:46 UTC] PHP Warning:  include(): Failed opening 'inc/htmlend.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/inc/signup.php on line 123
+[19-Feb-2018 15:09:46 UTC] PHP Stack trace:
+[19-Feb-2018 15:09:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/inc/signup.php:0
+[19-Feb-2018 15:10:15 UTC] PHP Parse error:  syntax error, unexpected '<<' (T_SL) in /home/ubuntu/workspace/inc/db.php on line 5
+[19-Feb-2018 15:10:15 UTC] PHP Stack trace:
+[19-Feb-2018 15:10:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/inc/signup.php:0
+[19-Feb-2018 15:10:15 UTC] PHP   2. include() /home/ubuntu/workspace/inc/signup.php:4
+[19-Feb-2018 15:10:39 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/inc/db.php on line 26
+[19-Feb-2018 15:10:39 UTC] PHP Stack trace:
+[19-Feb-2018 15:10:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/inc/signup.php:0
+[19-Feb-2018 15:10:39 UTC] PHP   2. include() /home/ubuntu/workspace/inc/signup.php:4
+[19-Feb-2018 15:10:39 UTC] PHP   3. include() /home/ubuntu/workspace/init.php:2
+[19-Feb-2018 15:10:39 UTC] PHP   4. mysqli_connect() /home/ubuntu/workspace/inc/db.php:26
+[19-Feb-2018 15:10:39 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/inc/db.php on line 26
+[19-Feb-2018 15:10:39 UTC] PHP Stack trace:
+[19-Feb-2018 15:10:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/inc/signup.php:0
+[19-Feb-2018 15:10:39 UTC] PHP   2. include() /home/ubuntu/workspace/inc/signup.php:4
+[19-Feb-2018 15:10:39 UTC] PHP   3. include() /home/ubuntu/workspace/init.php:2
+[19-Feb-2018 15:10:39 UTC] PHP   4. mysqli_connect() /home/ubuntu/workspace/inc/db.php:26
+[19-Feb-2018 15:10:39 UTC] PHP Fatal error:  Call to a member function set_charset() on a non-object in /home/ubuntu/workspace/inc/db.php on line 27
+[19-Feb-2018 15:10:39 UTC] PHP Stack trace:
+[19-Feb-2018 15:10:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/inc/signup.php:0
+[19-Feb-2018 15:10:39 UTC] PHP   2. include() /home/ubuntu/workspace/inc/signup.php:4
+[19-Feb-2018 15:10:39 UTC] PHP   3. include() /home/ubuntu/workspace/init.php:2
+[19-Feb-2018 15:32:49 UTC] PHP Warning:  include(init.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/inc/signup.php on line 2
+[19-Feb-2018 15:32:49 UTC] PHP Stack trace:
+[19-Feb-2018 15:32:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/inc/signup.php:0
+[19-Feb-2018 15:32:49 UTC] PHP Warning:  include(): Failed opening 'init.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/inc/signup.php on line 2
+[19-Feb-2018 15:32:49 UTC] PHP Stack trace:
+[19-Feb-2018 15:32:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/inc/signup.php:0
+[19-Feb-2018 15:32:49 UTC] PHP Warning:  include(inc/navbar.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/inc/signup.php on line 22
+[19-Feb-2018 15:32:49 UTC] PHP Stack trace:
+[19-Feb-2018 15:32:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/inc/signup.php:0
+[19-Feb-2018 15:32:49 UTC] PHP Warning:  include(): Failed opening 'inc/navbar.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/inc/signup.php on line 22
+[19-Feb-2018 15:32:49 UTC] PHP Stack trace:
+[19-Feb-2018 15:32:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/inc/signup.php:0
+[20-Feb-2018 11:32:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'b63ef7fd9df32c:2e792dbb'@'ip-10-0-11-114.eu-west-1.compute.internal' (using password: YES) in /home/ubuntu/workspace/inc/db.php on line 17
+[20-Feb-2018 11:32:12 UTC] PHP Stack trace:
+[20-Feb-2018 11:32:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/accounts/login.php:0
+[20-Feb-2018 11:32:12 UTC] PHP   2. include() /home/ubuntu/workspace/accounts/login.php:4
+[20-Feb-2018 11:32:12 UTC] PHP   3. mysqli_connect() /home/ubuntu/workspace/inc/db.php:17
+[20-Feb-2018 11:32:12 UTC] PHP Fatal error:  Call to a member function set_charset() on a non-object in /home/ubuntu/workspace/inc/db.php on line 18
+[20-Feb-2018 11:32:12 UTC] PHP Stack trace:
+[20-Feb-2018 11:32:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/accounts/login.php:0
+[20-Feb-2018 11:32:12 UTC] PHP   2. include() /home/ubuntu/workspace/accounts/login.php:4
+[23-Feb-2018 21:41:25 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ubuntu/workspace/accounts/signup.php on line 14
+[23-Feb-2018 21:46:05 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ubuntu/workspace/accounts/signup.php on line 14
+[23-Feb-2018 21:55:49 UTC] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/ubuntu/workspace/accounts/signup.php on line 14
+[23-Feb-2018 21:55:49 UTC] PHP Stack trace:
+[23-Feb-2018 21:55:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/accounts/signup.php:0
+[23-Feb-2018 21:59:28 UTC] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/ubuntu/workspace/accounts/signup.php on line 14
+[23-Feb-2018 21:59:28 UTC] PHP Stack trace:
+[23-Feb-2018 21:59:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/accounts/signup.php:0
+[23-Feb-2018 22:03:27 UTC] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/ubuntu/workspace/accounts/signup.php on line 14
+[23-Feb-2018 22:03:27 UTC] PHP Stack trace:
+[23-Feb-2018 22:03:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/accounts/signup.php:0
+[23-Feb-2018 22:08:07 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/ubuntu/workspace/accounts/signup.php on line 16
+[23-Feb-2018 22:17:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/inc/signup.php:123) in /home/ubuntu/workspace/inc/signup.php on line 125
+[23-Feb-2018 22:17:42 UTC] PHP Stack trace:
+[23-Feb-2018 22:17:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/inc/signup.php:0
+[23-Feb-2018 22:17:42 UTC] PHP   2. header() /home/ubuntu/workspace/inc/signup.php:125
+[23-Feb-2018 22:17:42 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/inc/signup.php on line 131
+[23-Feb-2018 22:17:42 UTC] PHP Stack trace:
+[23-Feb-2018 22:17:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/inc/signup.php:0
+[23-Feb-2018 22:17:42 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/inc/signup.php:131
+[23-Feb-2018 22:17:42 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/inc/signup.php on line 133
+[23-Feb-2018 22:17:42 UTC] PHP Stack trace:
+[23-Feb-2018 22:17:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/inc/signup.php:0
+[23-Feb-2018 22:17:42 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/inc/signup.php:133
+[23-Feb-2018 22:17:42 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ubuntu/workspace/inc/signup.php on line 133
+[23-Feb-2018 22:17:42 UTC] PHP Stack trace:
+[23-Feb-2018 22:17:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/inc/signup.php:0
+[23-Feb-2018 22:17:42 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/inc/signup.php:133
+[23-Feb-2018 22:17:42 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/inc/signup.php on line 139
+[23-Feb-2018 22:17:42 UTC] PHP Stack trace:
+[23-Feb-2018 22:17:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/inc/signup.php:0
+[23-Feb-2018 22:17:42 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/inc/signup.php:139
+[23-Feb-2018 22:17:42 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/inc/signup.php on line 139
+[23-Feb-2018 22:17:42 UTC] PHP Stack trace:
+[23-Feb-2018 22:17:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/inc/signup.php:0
+[23-Feb-2018 22:17:42 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/inc/signup.php:139
+[23-Feb-2018 22:17:42 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/inc/signup.php on line 141
+[23-Feb-2018 22:17:42 UTC] PHP Stack trace:
+[23-Feb-2018 22:17:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/inc/signup.php:0
+[23-Feb-2018 22:17:42 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/inc/signup.php:141
+[01-Mar-2018 23:20:35 UTC] PHP Warning:  require_once(inc/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/glint/studenthome.php on line 4
+[01-Mar-2018 23:20:35 UTC] PHP Stack trace:
+[01-Mar-2018 23:20:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/glint/studenthome.php:0
+[01-Mar-2018 23:20:35 UTC] PHP Fatal error:  require_once(): Failed opening required 'inc/db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/glint/studenthome.php on line 4
+[01-Mar-2018 23:20:35 UTC] PHP Stack trace:
+[01-Mar-2018 23:20:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/glint/studenthome.php:0
+[05-Mar-2018 14:51:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'b7334920bc5bdf'@'ip-10-0-122-115.eu-west-1.compute.internal' (using password: YES) in /home/ubuntu/workspace/inc/db.php on line 27
+[05-Mar-2018 14:51:17 UTC] PHP Stack trace:
+[05-Mar-2018 14:51:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/accounts/login.php:0
+[05-Mar-2018 14:51:17 UTC] PHP   2. include() /home/ubuntu/workspace/accounts/login.php:4
+[05-Mar-2018 14:51:17 UTC] PHP   3. mysqli_connect() /home/ubuntu/workspace/inc/db.php:27
+[05-Mar-2018 14:51:17 UTC] PHP Fatal error:  Call to a member function set_charset() on a non-object in /home/ubuntu/workspace/inc/db.php on line 28
+[05-Mar-2018 14:51:17 UTC] PHP Stack trace:
+[05-Mar-2018 14:51:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/accounts/login.php:0
+[05-Mar-2018 14:51:17 UTC] PHP   2. include() /home/ubuntu/workspace/accounts/login.php:4
+[05-Mar-2018 14:51:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/inc/db.php on line 27
+[05-Mar-2018 14:51:33 UTC] PHP Stack trace:
+[05-Mar-2018 14:51:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/accounts/login.php:0
+[05-Mar-2018 14:51:33 UTC] PHP   2. include() /home/ubuntu/workspace/accounts/login.php:4
+[05-Mar-2018 14:51:33 UTC] PHP   3. mysqli_connect() /home/ubuntu/workspace/inc/db.php:27
+[05-Mar-2018 14:51:33 UTC] PHP Fatal error:  Call to a member function set_charset() on a non-object in /home/ubuntu/workspace/inc/db.php on line 28
+[05-Mar-2018 14:51:33 UTC] PHP Stack trace:
+[05-Mar-2018 14:51:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/accounts/login.php:0
+[05-Mar-2018 14:51:33 UTC] PHP   2. include() /home/ubuntu/workspace/accounts/login.php:4
+[05-Mar-2018 14:51:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/inc/db.php on line 27
+[05-Mar-2018 14:51:56 UTC] PHP Stack trace:
+[05-Mar-2018 14:51:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/accounts/login.php:0
+[05-Mar-2018 14:51:56 UTC] PHP   2. include() /home/ubuntu/workspace/accounts/login.php:4
+[05-Mar-2018 14:51:56 UTC] PHP   3. mysqli_connect() /home/ubuntu/workspace/inc/db.php:27
+[05-Mar-2018 14:51:56 UTC] PHP Fatal error:  Call to a member function set_charset() on a non-object in /home/ubuntu/workspace/inc/db.php on line 28
+[05-Mar-2018 14:51:56 UTC] PHP Stack trace:
+[05-Mar-2018 14:51:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/accounts/login.php:0
+[05-Mar-2018 14:51:56 UTC] PHP   2. include() /home/ubuntu/workspace/accounts/login.php:4
+[05-Mar-2018 14:52:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'leannecassidy96'@'localhost' (using password: YES) in /home/ubuntu/workspace/inc/db.php on line 27
+[05-Mar-2018 14:52:25 UTC] PHP Stack trace:
+[05-Mar-2018 14:52:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/accounts/login.php:0
+[05-Mar-2018 14:52:25 UTC] PHP   2. include() /home/ubuntu/workspace/accounts/login.php:4
+[05-Mar-2018 14:52:25 UTC] PHP   3. mysqli_connect() /home/ubuntu/workspace/inc/db.php:27
+[05-Mar-2018 14:52:25 UTC] PHP Fatal error:  Call to a member function set_charset() on a non-object in /home/ubuntu/workspace/inc/db.php on line 28
+[05-Mar-2018 14:52:25 UTC] PHP Stack trace:
+[05-Mar-2018 14:52:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/accounts/login.php:0
+[05-Mar-2018 14:52:25 UTC] PHP   2. include() /home/ubuntu/workspace/accounts/login.php:4
+[05-Mar-2018 14:53:02 UTC] PHP Warning:  include(../inc/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/accounts/login.php on line 5
+[05-Mar-2018 14:53:02 UTC] PHP Stack trace:
+[05-Mar-2018 14:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/accounts/login.php:0
+[05-Mar-2018 14:53:02 UTC] PHP Warning:  include(): Failed opening '../inc/functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/accounts/login.php on line 5
+[05-Mar-2018 14:53:02 UTC] PHP Stack trace:
+[05-Mar-2018 14:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/accounts/login.php:0
+[05-Mar-2018 14:53:02 UTC] PHP Fatal error:  Call to undefined function p_s() in /home/ubuntu/workspace/accounts/login.php on line 8
+[05-Mar-2018 14:53:02 UTC] PHP Stack trace:
+[05-Mar-2018 14:53:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/accounts/login.php:0
+[05-Mar-2018 15:39:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'b7334920bc5bdf'@'%' to database 'heroku_211cf847743074' in /home/ubuntu/workspace/inc/db.php on line 27
+[05-Mar-2018 15:39:49 UTC] PHP Stack trace:
+[05-Mar-2018 15:39:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/accounts/login.php:0
+[05-Mar-2018 15:39:49 UTC] PHP   2. include() /home/ubuntu/workspace/accounts/login.php:4
+[05-Mar-2018 15:39:49 UTC] PHP   3. mysqli_connect() /home/ubuntu/workspace/inc/db.php:27
+[05-Mar-2018 15:39:49 UTC] PHP Fatal error:  Call to a member function set_charset() on a non-object in /home/ubuntu/workspace/inc/db.php on line 28
+[05-Mar-2018 15:39:49 UTC] PHP Stack trace:
+[05-Mar-2018 15:39:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/accounts/login.php:0
+[05-Mar-2018 15:39:49 UTC] PHP   2. include() /home/ubuntu/workspace/accounts/login.php:4
