@@ -57,7 +57,7 @@ function start_conv($user1,$user2){
 function checkConv($user1,$user2){
 	global $conn;
 
-	$sql = "SELECT * FROM conv WHERE user1=$user1 AND user2= $user2";
+	$sql = "SELECT * FROM conv WHERE user1='$user1' AND user2= '$user2'";
 	$run = mysqli_query($conn,$sql);
 	$rowsnum = mysqli_num_rows($run);
 	if (isset($rowsnum)) {
@@ -67,7 +67,7 @@ function checkConv($user1,$user2){
 	}
 
 
-	$sql2 = "SELECT * FROM conv WHERE user1=$user2 AND user2= $user1";
+	$sql2 = "SELECT * FROM conv WHERE user1='$user2' AND user2= '$user1'";
 	$run2 = mysqli_query($conn,$sql2);
 	$rowsnum2 = mysqli_num_rows($run2);
 	if (isset($rowsnum2)) {

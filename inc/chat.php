@@ -1,5 +1,4 @@
 <?php 
-		require_once('db.php');
 		$touser = p_s($_GET['id']);
 		$fromuser = $_SESSION['id'];
 	if (isset($_POST['sendmsg'])) {
@@ -138,7 +137,7 @@
 		 ?>
 	</div>
 	<div class="sendmsg">
-		<form action="" method="POST">
+		<form action="chat.php" method="POST">
 			<textarea class="form-control" rows="3" name="msg"></textarea>
 			</br>
 			<button class="btn  btn-success" name="sendmsg">Send</button>			
