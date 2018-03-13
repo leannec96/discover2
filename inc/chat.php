@@ -1,4 +1,5 @@
 <?php 
+		require_once('db.php');
 		$touser = p_s($_GET['id']);
 		$fromuser = $_SESSION['id'];
 	if (isset($_POST['sendmsg'])) {
