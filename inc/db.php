@@ -2,9 +2,9 @@
 
 
 // for c9
-	$server = 'localhost';
+	$server = '5.9.144.131';
 	$username= 'root';
-	$password='';
+	$password='Tangoronan123!';
 	$db = 'chatapp';
 	
 	
