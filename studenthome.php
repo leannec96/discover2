@@ -150,12 +150,13 @@ require_once 'inc/db.php';
       <img src="../images/dlogo.png" alt="Homepage" height="75" width="200"> </br>
   <p>Leanne Cassidy - 114370601</p>
 </footer> 
-      <? php
+     
       
       
     </div><!-- @end #content -->
   </div><!-- @end #w -->
 <script type="text/javascript">
+/* $ global $ */
 $(function(){
   $('#profiletabs ul li a').on('click', function(e){
     e.preventDefault();
